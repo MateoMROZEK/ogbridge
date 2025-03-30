@@ -187,7 +187,7 @@
     "price": "20",
     "maxPrice": "30",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
-    "url": "https://www.facebook.com/DamianSVW/",
+    "url": "https://www.facebook.com/DamianSVW/?utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   },
@@ -199,7 +199,19 @@
     "price": "20",
     "maxPrice": "90",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
-    "url": "https://www.jbxgraphicsmods.com/forum/viewtopic.php?f=32&t=79",
+    "url": "https://www.jbxgraphicsmods.com/forum/viewtopic.php?f=32&t=79&utm_source=oghub.fr",
+    "isPrimary": false,
+    "isMega": false
+  },
+  {
+    "name": "Snowy Moon",
+    "game": "scs",
+    "sizeW": 48,
+    "sizeH": 24,
+    "price": "20",
+    "maxPrice": "90",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
+    "url": "https://snowymoon.io/?utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   }
