@@ -8,7 +8,7 @@
     "versionDownloadUrl": "https://api.oghub.fr/ogbridge/oghub.exe"
   },
   "plugin": {
-    "url": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/scs-telemetry.dll",
+    "url": "https://raw.githubusercontent.com/MateoMROZEK/ogbridge/main/scs-telemetry.dll",
     "currentVersion": "1.12.1"
   }
 }
