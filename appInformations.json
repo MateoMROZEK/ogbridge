@@ -2,10 +2,10 @@
   "appName": "OGBridge",
   "appDescription": "Official ETS/ATS Tracker by OGHub",
   "version": {
-    "currentVersion": "1.0.0",
-    "versionName": "1.0.0 Update",
-    "versionDescription": "Rework UI/UX & more coming soon.",
-    "versionDownloadUrl": "https://api.oghub.fr/ogbridge/oghub.exe"
+    "currentVersion": "1.1.0",
+    "versionName": "1.1.0 Update",
+    "versionDescription": "Add Protocole ogbridge:// & more elements",
+    "versionDownloadUrl": "https://bridge.oghub.fr/updates/oghub.exe"
   },
   "plugin": {
     "url": "https://raw.githubusercontent.com/MateoMROZEK/ogbridge/main/scs-telemetry.dll",
