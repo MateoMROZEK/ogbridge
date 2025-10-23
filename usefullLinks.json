@@ -214,5 +214,17 @@
     "url": "https://snowymoon.io/?utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
+  },
+  {
+    "name": "BBModdings - Trailers & More",
+    "game": "ets2",
+    "sizeW": 24,
+    "sizeH": 24,
+    "price": "15",
+    "maxPrice": "25",
+    "banner": "https://raw.githubusercontent.com/MateoMROZEK/ogbridge/main/img/ets2.png",
+    "url": "http://bbmoddings.com/?utm_source=oghub.fr",
+    "isPrimary": false,
+    "isMega": false
   }
 ]
