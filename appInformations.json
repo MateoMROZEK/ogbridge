@@ -2,9 +2,9 @@
   "appName": "OGBridge",
   "appDescription": "Official ETS/ATS Tracker by OGHub",
   "version": {
-    "currentVersion": "1.1.1",
-    "versionName": "1.1.1 Update",
-    "versionDescription": "Rework Visual & Add Forza Horizon 5 Telemetry",
+    "currentVersion": "1.1.2",
+    "versionName": "1.1.2 Update",
+    "versionDescription": "Add Duration Job & Speed chart",
     "versionDownloadUrl": "https://bridge.oghub.fr/updates/oghub.exe"
   },
   "plugin": {
